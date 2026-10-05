@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
   <style>.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;} .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;} .helv{font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;}</style>
-  <rect width="1200" height="360" fill="#061A30"/>
+  <rect width="1200" height="360" fill="#0D1117"/>
   <text x="34" y="392" class="helv" font-size="440" font-weight="700" letter-spacing="-20" fill="#13B9FD">5</text>
-  <text x="64" y="52" class="sans" font-size="15" fill="#8DA2B8"><tspan font-weight="600" fill="#EAF3FB">Mobile App Developer</tspan>  /  Flutter &amp; React Native  /  AI-Powered Apps</text>
-  <g class="sans" font-size="50" font-weight="600" letter-spacing="-1.5" fill="#EAF3FB">
+  <text x="64" y="52" class="sans" font-size="15" fill="#8B949E"><tspan font-weight="600" fill="#E6EDF3">Mobile App Developer</tspan>  /  Flutter &amp; React Native  /  AI-Powered Apps</text>
+  <g class="sans" font-size="50" font-weight="600" letter-spacing="-1.5" fill="#E6EDF3">
     <text x="330" y="150">years building</text>
     <text x="330" y="206">cross-platform</text>
     <text x="330" y="262">mobile apps.</text>
   </g>
-  <text x="330" y="322" class="sans" font-size="13" fill="#8DA2B8">40 h/week  ·  long-term</text>
-  <line x1="836" y1="92" x2="836" y2="312" stroke="#1D3754"/>
-  <text x="860" y="112" class="sans" font-size="12" fill="#8DA2B8">Frameworks</text>
-  <text x="860" y="132" class="sans" font-size="15" font-weight="500" fill="#EAF3FB">Flutter, FlutterFlow, React Native</text>
-  <text x="860" y="168" class="sans" font-size="12" fill="#8DA2B8">AI</text>
-  <text x="860" y="188" class="sans" font-size="15" font-weight="500" fill="#EAF3FB">OpenAI, Claude, Gemini</text>
-  <text x="860" y="224" class="sans" font-size="12" fill="#8DA2B8">Backend</text>
-  <text x="860" y="244" class="sans" font-size="15" font-weight="500" fill="#EAF3FB">Firebase, Supabase, REST API</text>
-  <text x="860" y="280" class="sans" font-size="12" fill="#8DA2B8">Release</text>
-  <text x="860" y="300" class="sans" font-size="15" font-weight="500" fill="#EAF3FB">App Store, Google Play</text>
+  <text x="330" y="322" class="sans" font-size="13" fill="#8B949E">40 h/week  ·  long-term</text>
+  <line x1="836" y1="92" x2="836" y2="312" stroke="#30363D"/>
+  <text x="860" y="112" class="sans" font-size="12" fill="#8B949E">Frameworks</text>
+  <text x="860" y="132" class="sans" font-size="15" font-weight="500" fill="#E6EDF3">Flutter, FlutterFlow, React Native</text>
+  <text x="860" y="168" class="sans" font-size="12" fill="#8B949E">AI</text>
+  <text x="860" y="188" class="sans" font-size="15" font-weight="500" fill="#E6EDF3">OpenAI, Claude, Gemini</text>
+  <text x="860" y="224" class="sans" font-size="12" fill="#8B949E">Backend</text>
+  <text x="860" y="244" class="sans" font-size="15" font-weight="500" fill="#E6EDF3">Firebase, Supabase, REST API</text>
+  <text x="860" y="280" class="sans" font-size="12" fill="#8B949E">Release</text>
+  <text x="860" y="300" class="sans" font-size="15" font-weight="500" fill="#E6EDF3">App Store, Google Play</text>
 </svg>
