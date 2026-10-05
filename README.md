@@ -5,8 +5,6 @@
 
 <br>
 
-**Mobile App Developer · Flutter & React Native · AI-Powered Apps**
-
 I build cross-platform mobile apps with Flutter, FlutterFlow, and React Native, and have been doing it for 5 years.
 
 My edge is AI. I integrate AI features with the OpenAI, Claude, and Gemini APIs that actually ship to production, not just demos. I take care of both the app and the AI layer, from the first screen to the live release on the App Store and Google Play.
